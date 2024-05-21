@@ -1,15 +1,3 @@
-/seo-company
-    /css
-        styles.css
-    /js
-        scripts.js
-    /images
-        logo.png
-    index.html
-    seo-services.html
-    testimonials.html
-    blog.html
-    contact.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
